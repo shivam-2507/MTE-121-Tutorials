@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "fstream": "cpp",
-        "cmath": "cpp",
-        "ios": "cpp",
-        "ostream": "cpp",
-        "locale": "cpp"
-    }
-}
