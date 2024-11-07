@@ -1,0 +1,41 @@
+1 Hulls_Carol 142
+0 Tesla_Nick 126
+1 Wells_Mary 150
+1 Hamdullahpur_Feridun 101
+0 Bell_Alex 132
+1 Goel_Vivek 147
+0 Stephenson_Geo 133
+1 Milne_Andrew 137
+1 de_Souza_Madeleine 102
+0 Otto_Nick 128
+1 Gorman_David 117
+1 Consell_Ryan 123
+1 Payton_Forrest 144
+0 Oh_Henry 136
+1 Cramer_Zack 139
+1 Harris_Dave 148
+0 Archimedes_A 112
+0 Yerxa_Meagan 116
+1 Collins_Mike 104
+0 Pike_Robby 134
+0 da_Vinci_Leo 113
+1 Hurwitz_Marc 122
+0 Hopper_Grace 135
+1 Campbell_Emily 109
+1 Teertstra_Peter 130
+1 Owen_Bill 118
+1 Gryguc_Andrew 108
+1 MacGregor_Carolyn 114
+0 Edison_Tom 141
+1 McKay_Ken 124
+0 Aho_Alf 131
+0 Turing_Al 129
+1 Nairn_David 120
+0 Lovelace_Ada 110
+1 Vandekerckhove_Sam 125
+0 Babbage_Chip 145
+1 Casale_Matt 146
+
+
+
+
