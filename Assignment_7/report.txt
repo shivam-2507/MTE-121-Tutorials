@@ -1,7 +1,6 @@
 Status 1 Indicates Faculty
 Status 0 Indicates Student
 Status -1 Indicates Empty Lot 
-
 Initial Parking Lot
                 NAME    STATUS          LOT NUMBER
 Hamdullahpur_Feridun         1                 101
