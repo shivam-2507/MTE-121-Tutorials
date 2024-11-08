@@ -24,12 +24,12 @@ void read_current_parking(ifstream &current, string names[], int status[], int p
 }
 
 // part c
-void populate_Add_RemoveArray(ifstream &add_file, string add_names[], bool add_status[], int count)
+void populate_Add_RemoveArray(ifstream &file, string add_names[], bool add_status[], int count)
 {
     int status = 0;
     string name = "";
     count = 0;
-    while (add_file >> status >> name)
+    while (file >> status >> name)
     {
         add_names[count] = name;
         add_status[count] = status;
