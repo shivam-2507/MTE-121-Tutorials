@@ -93,6 +93,7 @@ void BankAccount ::depositMoney(float depositAmount)
     balance += depositAmount;
     cout << "Deposit of $" << depositAmount << " made from " << getAccountName() << endl;
 }
+
 // Checking Account
 class CheckingAccount : public BankAccount
 {
@@ -103,6 +104,7 @@ public:
 CheckingAccount::CheckingAccount(float initialBalance, string accountName) : BankAccount(initialBalance, accountName, 0)
 {
 }
+
 // Savings Account
 class SavingsAccount : public BankAccount
 {
@@ -182,7 +184,6 @@ int main()
     savingsInterest(savings);
 
     payInterest(loan, checking);
-    // cout << (*checking).getBalance() << endl;
 
     depositSalary(checking, 30000);
 
@@ -192,3 +193,14 @@ int main()
 
     printFunction(loan, checking, savings);
 }
+/*
+Withdrawal of $1200.00 made from Checking Account
+Deposit of $30000.00 made from Checking Account
+Withdrawal of $10000.00 made from Checking Account
+Payment of $10000.00 made from Loan Account
+Withdrawal of $5000.00 made from Checking Account
+Deposit of $5000.00 made from Saving Account
+Loan Account balance is $10000.00
+Checking Account balance is $23800.00
+Saving Account balance is $26000.00
+*/
