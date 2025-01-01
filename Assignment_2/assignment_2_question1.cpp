@@ -1,5 +1,5 @@
 /*
-Shivam Walia and Om Upadhyay
+Shivam Walia
 */
 
 #include <iostream>
